@@ -1,4 +1,4 @@
-# Accounting Dashboard Interface - TailWindCSS
+# Accounting Dashboard Interface - TailwindCSS
 
 - *NOTE: This is an example project developed by [@shakirsamoon](https://github.com/shakirsamoon). Feel free to explore, clone or fork the repo as per your liking. In exchange, I would like a star for the repository. Thank you in Advance.*
 
